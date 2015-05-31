@@ -1,5 +1,5 @@
-require './types'
-require './operators'
+require './types/types'
+require './operators/operators'
+require './statements/statements'
 require './variable'
-require './statements'
 require './machine'

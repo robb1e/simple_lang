@@ -1,5 +1,4 @@
 require './types/types'
 require './operators/operators'
 require './statements/statements'
-require './variable'
-require './machine'
+require './lang/lang'
